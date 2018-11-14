@@ -1,0 +1,21 @@
+{
+  "name": "nuxt2-appengine",
+  "version": "1.0.0",
+  "description": "Deploying Nuxt 2.0 to Google App Engine",
+  "author": "Pascal Luther",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy": "gcloud app deploy app.yaml --project <project-id>"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
