@@ -2,7 +2,7 @@
 
 ## Step-by-step Guide
 
-add link
+https://medium.com/@pascalluther/deploying-a-nuxt-js-v2-app-to-google-app-engine-google-cloud-platform-69c9008531bc
 
 ## Build & Deploy
 
