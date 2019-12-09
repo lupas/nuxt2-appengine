@@ -12,10 +12,10 @@
     "deploy": "gcloud app deploy app.yaml --project <project-id>"
   },
   "dependencies": {
-    "cross-env": "^5.2.1",
-    "nuxt": "^2.10.1"
+    "cross-env": "^6.0.3",
+    "nuxt": "^2.10.2"
   },
   "devDependencies": {
-    "nodemon": "^1.19.3"
+    "nodemon": "^2.0.1"
   }
 }
