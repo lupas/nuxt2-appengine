@@ -12,8 +12,8 @@
     "deploy": "gcloud app deploy app.yaml --project <project-id>"
   },
   "dependencies": {
-    "cross-env": "^6.0.3",
-    "nuxt": "^2.10.2"
+    "cross-env": "^7.0.2",
+    "nuxt": "^2.12.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.1"
